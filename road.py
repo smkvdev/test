@@ -76,3 +76,4 @@
 #
 # my = MyClass(10)
 
+print("Hello")
